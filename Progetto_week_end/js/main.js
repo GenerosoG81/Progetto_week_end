@@ -1,0 +1,14 @@
+$(document).ready(function(){
+	$("#buttoninfo").click(function(){
+		$("#info2").toggle('slow');
+    });
+	$("#curvo-btn").click(function(){
+		$("#curvo-div").toggle('slow');
+	   });
+ $("#ultra-btn").click(function(){
+		$("#ultra-div").toggle('slow');
+	   });
+ $("#hd-btn").click(function(){
+		$("#hd-div").toggle('slow');
+	   });
+});

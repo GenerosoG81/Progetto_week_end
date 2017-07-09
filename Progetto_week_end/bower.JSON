@@ -1,0 +1,12 @@
+{
+  "name": "frontend-uiip",
+  "description": "frontend-uiip",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "select2": "4.0.3",
+    "slick": "*",
+    "slick-carousel": "slick.js#^1.6.0"
+  }
+}
